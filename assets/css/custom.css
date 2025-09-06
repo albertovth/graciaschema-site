@@ -59,4 +59,11 @@ img[alt*="Chema"] {
   color: var(--accent) !important;
   border: 1.5px solid var(--accent);
 }
+/* Attribution under portrait */
+.photo-credit {
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 1.2rem;
+}
 
