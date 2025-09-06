@@ -37,10 +37,10 @@ blockquote { border-left: 3px solid #c8d6e5; padding: .5rem .75rem; background:#
 /* Make images nicely rounded */
 img { border-radius: 10px; max-width: 100%; height: auto; }
 
-/* Portrait tweaks */
+/* Force portrait to align left */
 img[alt*="Chema"] {
   display: block;
-  margin: 0 0 12px 0;  /* bottom margin only, no centering */
+  margin: 0 0 12px 0 !important;   /* override any auto centering */
   max-width: 420px;
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0,0,0,.06);
