@@ -4,10 +4,13 @@ title: Compartí tu recuerdo
 permalink: /comparti
 ---
 
+<p>
+  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
+</p>
+
 <h1>Compartí tu recuerdo</h1>
 
 <p>Gracias por contribuir a este homenaje. Tu aporte va a ser <strong>revisado</strong> antes de publicarse para mantener un espacio respetuoso y fiel a su legado.</p>
-
 
 <div style="max-width:820px;margin:0 auto">
   <iframe 
@@ -22,15 +25,3 @@ permalink: /comparti
     Abrir el formulario en otra pestaña
   </a>
 </p>
-
-<p>
-  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
-</p>
-
-<p><a href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a></p>
-
-<p>
-  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
-</p>
-
-
