@@ -11,4 +11,4 @@ Pequeñas historias que probablemente no recojan sus biógrafos, pero que marcar
 
 [Leer el artículo completo en Substack](https://elinutildelafamilia.substack.com/p/chema-tojeira-el-compromiso-de-mejorar){:target="_blank" rel="noopener"}
 
-*Foto cortesía de [Élmer L. Menjívar](https://elinutildelafamilia.substack.com/).*
+*Foto cortesía de [Élmer L. Menjívar](https://elinutildelafamilia.substack.com/){:target="_blank" rel="noopener"}.*
