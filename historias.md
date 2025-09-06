@@ -6,7 +6,8 @@ permalink: /historias
 
 # Historias
 
-Testimonios publicados (curados sin comentarios).
+Testimonios publicados (curados sin comentarios, no podés dejar respuestas aquí).
+
 
 <ul>
 {% raw %}{% for post in site.posts %}
