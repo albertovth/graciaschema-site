@@ -6,14 +6,19 @@ permalink: /historias
 
 # Historias
 
-Testimonios publicados (curados sin comentarios, no podés dejar respuestas aquí).
+Testimonios publicados (curados sin comentarios).
 
-
-<ul>
-{% raw %}{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>— {{ post.date | date: "%Y-%m-%d" }}{% if post.author %} · {{ post.author }}{% endif %}</small>
-  </li>
-{% endfor %}{% endraw %}
-</ul>
+<div class="cards">
+{% for post in site.posts %}
+  <article class="card">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="meta">
+      {{ post.date | date: "%Y-%m-%d" }}{% if post.author %} · {{ post.author }}{% endif %}
+    </div>
+    {% if post.excerpt %}
+      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+    {% endif %}
+    <p><a class="button" href="{{ post.url | relative_url }}">Leer historia</a></p>
+  </article>
+{% endfor %}
+</div>
