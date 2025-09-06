@@ -61,3 +61,8 @@ img[alt*="Chema"] {
   margin-bottom: 1.2rem;
 }
 
+/* Force CTA buttons left-aligned */
+a.cta {
+  display: inline-block !important;
+  margin: 10px 12px 10px 0 !important;
+}
