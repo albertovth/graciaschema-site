@@ -22,3 +22,5 @@ Testimonios publicados (curados sin comentarios).
     </article>
   {% endfor %}
 </div>
+
+<p><a class="button" href="#" style="display:inline-block;padding:0.5rem 1rem;background:#eee;border:1px solid #ccc;border-radius:4px;text-decoration:none;color:#000;font-weight:bold;">Botón de prueba</a></p>
