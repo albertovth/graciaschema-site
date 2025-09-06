@@ -7,8 +7,9 @@ title: Inicio
   <img src="{{ '/assets/img/tojeira.jpg' | relative_url }}" alt="José María “Chema” Tojeira">
 </p>
 
-*Foto: ver créditos y licencia en <a href="https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Maria_Tojeira.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>
-. Uso conforme a su licencia.*
+<p class="photo-credit">
+  Foto: ver créditos y licencia en <a href="https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Maria_Tojeira.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>. Uso conforme a su licencia.
+</p>
 
 # Gracias, Chema
 
