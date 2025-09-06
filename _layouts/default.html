@@ -107,6 +107,10 @@
 
 <body>
   <main>
+    {% if page.url contains '/202' %}
+      <p><a class="cta" href="{{ '/historias' | relative_url }}">← Volver a Historias</a></p>
+    {% endif %}
+
     {{ content }}
   </main>
 </body>
