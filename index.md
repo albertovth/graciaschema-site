@@ -9,4 +9,4 @@ Memorial digital para **José María “Chema” Tojeira** — un espacio de gra
 
 [➡️ **Compartí tu recuerdo**](/comparte) · [Leé las historias publicadas](/historias)
 
-> *“La memoria también es justicia.”*
+> *La memoria y la verdad también son justicia.*
