@@ -19,4 +19,6 @@ Memorial digital para **José María “Chema” Tojeira** — un espacio de gra
 
 <a href="{{ '/historias' | relative_url }}" class="cta">Leé las historias publicadas</a>
 
-> *La memoria y la verdad también son justicia.*
+> **“...la verdad, la justicia y el perdón deben regir cualquier intento [...] de formular una respuesta justa a los odios.”**  
+> — José M. Tojeira, *Verdad, Justicia, Perdón* (1997)
+
