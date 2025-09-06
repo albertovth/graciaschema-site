@@ -53,12 +53,6 @@ img[alt*="Chema"] {
   margin: 10px auto;        /* center + space between buttons */
 }
 
-/* Optional: a secondary (outlined) style for the second button */
-.cta.secondary {
-  background: transparent;
-  color: var(--accent) !important;
-  border: 1.5px solid var(--accent);
-}
 /* Attribution under portrait */
 .photo-credit {
   font-size: 0.9rem;
