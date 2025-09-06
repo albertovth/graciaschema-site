@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Comparte tu recuerdo
-permalink: /comparte
+title: Compartí tu recuerdo
+permalink: /comparti
 ---
 
 # Compartí tu recuerdo
 
-Gracias por contribuir a este homenaje. Tu aporte será **revisado** antes de publicarse para mantener un espacio respetuoso y fiel a su legado.
+Gracias por contribuir a este homenaje. Tu aporte va a ser **revisado** antes de publicarse para mantener un espacio respetuoso y fiel a su legado.
 
 <!-- REEMPLAZA EL IFRAME DE ABAJO CON EL DE TU GOOGLE FORM:
    En Google Forms: Enviar → <> (Incrustar HTML) → Copia el <iframe> y pégalo aquí.
