@@ -23,5 +23,6 @@ permalink: /comparti
 </p>
 
 <p>
-  <a class="cta" href="{{ '/' | absolute_url }}">Volver al inicio</a>
+  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
 </p>
+
