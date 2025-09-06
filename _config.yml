@@ -1,12 +1,15 @@
 title: "Gracias, Chema"
 description: "Memorial digital para José María “Chema” Tojeira. Historias personales, recuerdos y gratitud."
 lang: es
-remote_theme: pages-themes/merlot@v0.2.0
 
-plugins:
-  - jekyll-remote-theme
+# REMOVE remote_theme and its plugin
+# remote_theme: pages-themes/merlot@v0.2.0
 
-# While the site lives at https://albertovth.github.io/graciaschema-site
+# No plugins necessary if you're not using remote_theme
+# plugins:
+#   - jekyll-remote-theme
+
+# Site base path
 baseurl: "/graciaschema-site"
 
 # Markdown engine + allow block HTML
@@ -14,4 +17,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   parse_block_html: true
-
