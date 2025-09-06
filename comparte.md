@@ -4,7 +4,7 @@ title: Comparte tu recuerdo
 permalink: /comparte
 ---
 
-# Comparte tu recuerdo
+# Compartí tu recuerdo
 
 Gracias por contribuir a este homenaje. Tu aporte será **revisado** antes de publicarse para mantener un espacio respetuoso y fiel a su legado.
 
