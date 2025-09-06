@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #000;
+      background: #fff;
+    }
+
+    h1, h2, h3 {
+      font-weight: bold;
+      margin-top: 2rem;
+    }
+
+    a {
+      color: #005;
+      text-decoration: underline;
+    }
+
+    blockquote {
+      font-style: italic;
+      margin: 1.5rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #ccc;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .photo-credit {
+      font-size: 0.9em;
+      color: #555;
+    }
+
+    .cta {
+      display: inline-block;
+      margin: 1rem 1rem 1rem 0;
+      padding: 0.5rem 1rem;
+      background: #eee;
+      border: none;
+      text-decoration: none;
+      color: #000;
+    }
+
+    footer {
+      margin-top: 4rem;
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
