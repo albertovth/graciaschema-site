@@ -22,4 +22,3 @@ Testimonios publicados (curados sin comentarios).
     </article>
   {% endfor %}
 </div>
-
