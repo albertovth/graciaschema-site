@@ -3,7 +3,10 @@ layout: default
 title: Inicio
 ---
 
-![José María “Chema” Tojeira](https://upload.wikimedia.org/wikipedia/commons/2/24/Jos%C3%A9_Maria_Tojeira.jpg)
+<p align="center">
+  <img src="{{ '/assets/img/tojeira.jpg' | relative_url }}" alt="José María “Chema” Tojeira">
+</p>
+
 
 *Foto: ver créditos y licencia en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Maria_Tojeira.jpg). Uso conforme a su licencia.*
 
