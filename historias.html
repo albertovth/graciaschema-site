@@ -11,14 +11,16 @@ permalink: /historias
 <div class="cards">
   {% for post in site.posts %}
     <article class="card">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <h3>{{ post.title }}</h3>
       <div class="meta">
         {{ post.date | date: "%Y-%m-%d" }}{% if post.author %} · {{ post.author }}{% endif %}
       </div>
       {% if post.excerpt %}
         <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
       {% endif %}
-      <p><a class="button" href="{{ post.url | relative_url }}">Leer historia</a></p>
+      <p><a class="cta" href="{{ post.url | relative_url }}">Leer historia</a></p>
     </article>
   {% endfor %}
 </div>
+
+<p><a class="cta" href="{{ '/' | absolute_url }}">Volver al inicio</a></p>
