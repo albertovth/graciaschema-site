@@ -26,3 +26,9 @@ permalink: /comparti
   <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
 </p>
 
+
+<p><a href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a></p>
+
+<p>
+  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
+</p>
