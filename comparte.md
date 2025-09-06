@@ -8,6 +8,13 @@ permalink: /comparti
 
 <p>Gracias por contribuir a este homenaje. Tu aporte va a ser <strong>revisado</strong> antes de publicarse para mantener un espacio respetuoso y fiel a su legado.</p>
 
+<p><a href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a></p>
+
+<p>
+  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
+</p>
+
+
 <div style="max-width:820px;margin:0 auto">
   <iframe 
     src="https://docs.google.com/forms/d/e/1FAIpQLSdz3hoilu42x17f_vFs2EDMFL--LvcAlMyTF1HeA3onkDu3VA/viewform?embedded=true" 
@@ -27,8 +34,3 @@ permalink: /comparti
 </p>
 
 
-<p><a href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a></p>
-
-<p>
-  <a class="cta" href="https://albertovth.github.io/graciaschema-site/">Volver al inicio</a>
-</p>
