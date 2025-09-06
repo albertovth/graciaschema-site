@@ -7,6 +7,7 @@ title: Inicio
 
 Memorial digital para **José María “Chema” Tojeira** — un espacio de gratitud y memoria colectiva.
 
-[➡️ **Compartí tu recuerdo**](/comparte) · [Leé las historias publicadas](/historias)
+[➡️ **Compartí tu recuerdo**](/comparti){: .cta}   
+[Leé las historias publicadas](/historias)
 
 > *La memoria y la verdad también son justicia.*
