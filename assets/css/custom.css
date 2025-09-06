@@ -45,3 +45,18 @@ img[alt*="Chema"] {
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0,0,0,.06);
 }
+
+/* Stack + center CTA buttons on the home page */
+.cta {
+  display: block;           /* force full clickable button */
+  width: fit-content;       /* shrink to text width */
+  margin: 10px auto;        /* center + space between buttons */
+}
+
+/* Optional: a secondary (outlined) style for the second button */
+.cta.secondary {
+  background: transparent;
+  color: var(--accent) !important;
+  border: 1.5px solid var(--accent);
+}
+
