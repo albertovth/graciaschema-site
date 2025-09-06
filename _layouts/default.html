@@ -5,6 +5,7 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
 
   <style>
     body {
@@ -20,11 +21,17 @@
     h1, h2, h3 {
       font-weight: bold;
       margin-top: 2rem;
+      color: #000;
+      text-decoration: none;
     }
 
     a {
       color: #005;
       text-decoration: underline;
+    }
+
+    a:visited {
+      color: #005;
     }
 
     blockquote {
@@ -69,3 +76,4 @@
   </main>
 </body>
 </html>
+
