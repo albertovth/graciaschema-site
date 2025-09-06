@@ -1,0 +1,3 @@
+/* Opcional: tonos más serenos para la cabecera de Cayman */
+.page-header { background-color: #1e2b3a !important; }
+.project-name, .project-tagline { color: #ffffff !important; }
