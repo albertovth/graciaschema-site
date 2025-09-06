@@ -1,0 +1,35 @@
+/* Subtle, calm styling */
+:root{
+  --maxw: 820px;
+  --accent: #1e6bb8; /* change if using dark theme */
+  --ink: #1f2328;
+  --muted: #606c76;
+  --card: #f7f9fb;
+}
+.page-content, .post { max-width: var(--maxw); margin: 0 auto; }
+.page-header { padding-bottom: 2.2rem !important; }
+.project-name { letter-spacing: .3px; }
+.project-tagline { opacity: .9; }
+
+/* Buttons */
+a.button, .btn, .cta {
+  display: inline-block; padding: 10px 16px; border-radius: 8px;
+  background: var(--accent); color:#fff !important; text-decoration:none; font-weight:600;
+}
+a.button:hover, .btn:hover, .cta:hover { filter: brightness(.95); }
+
+/* Cards for stories list */
+.cards { display:grid; gap:16px; grid-template-columns: 1fr; }
+@media (min-width:720px){ .cards{ grid-template-columns: 1fr 1fr; } }
+.card {
+  background: var(--card); border:1px solid #e6eef4; border-radius: 12px; padding:16px;
+}
+.card h3 { margin-top:0; }
+.card .meta { color: var(--muted); font-size:.95rem; margin:.25rem 0 .5rem; }
+
+/* Body copy */
+.post-content p, .page-content p { color: var(--ink); line-height: 1.7; }
+blockquote { border-left: 3px solid #c8d6e5; padding: .5rem .75rem; background:#fafcff; color:#334; }
+
+/* Make images nicely rounded */
+img { border-radius: 10px; max-width: 100%; height: auto; }
