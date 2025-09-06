@@ -16,8 +16,6 @@ Memorial digital para **José María “Chema” Tojeira** — un espacio de gra
 
 <a href="{{ '/comparti' | relative_url }}" class="cta">Compartí tu recuerdo</a>
 
-<a href="{{ '/historias' | relative_url }}" class="cta">Leé las historias publicadas</a>
-
-
+<a href="{{ '/historias' | relative_url }}" class="cta secondary">Leé las historias publicadas</a>
 
 > *La memoria y la verdad también son justicia.*
