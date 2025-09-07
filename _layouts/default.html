@@ -108,7 +108,14 @@
 <body>
   <main>
     {% if page.url contains '/202' %}
-      <p><a class="cta" href="{{ '/historias' | relative_url }}">← Volver a Historias</a></p>
+      <p>
+  <a class="cta"
+     href="{{ '/historias' | relative_url }}"
+     onclick="if (document.referrer && document.referrer.indexOf('{{ '/historias' | relative_url }}') !== -1) { history.back(); return false; }">
+    ← Volver a Historias
+  </a>
+</p>
+
     {% endif %}
 
     {{ content }}
