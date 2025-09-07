@@ -12,3 +12,4 @@ Quedamos en vernos. Pasó mi cumpleaños y me escribió para felicitarme. Pasó 
 
 **Hasta siempre, Padre Chema. Hasta siempre, compañero.**
 ![Padre Chema y Óscar Canjura]({{ '/assets/img/OC_JMT.jpg' | relative_url }})
+*Foto cortesía de Óscar Canjura
