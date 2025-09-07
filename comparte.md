@@ -12,7 +12,7 @@ permalink: /comparti
 
 Gracias por contribuir a este homenaje. Tu aporte va a ser **revisado** antes de publicarse para mantener un espacio respetuoso y fiel a su legado.
 
-<p style="color:#1e6bb8;font-weight:600">
+<p style="color:#001f3f;font-weight:600">
 Después de enviar, la página mostrará la confirmación arriba del formulario.
 Si la pantalla parece quedar en blanco, no te preocupés: el sitio te llevará hacia arriba automáticamente.
 </p>
