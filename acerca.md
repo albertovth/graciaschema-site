@@ -4,6 +4,10 @@ title: Acerca de este sitio
 permalink: /acerca
 ---
 
+<p>
+  <a class="cta" href="{{ '/' | relative_url }}">Volver al inicio</a>
+</p>
+
 # Acerca de este sitio
 
 Este espacio es un homenaje colectivo a la memoria de José María “Chema” Tojeira.  
