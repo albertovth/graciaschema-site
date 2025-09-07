@@ -66,3 +66,9 @@ a.cta {
   display: inline-block !important;
   margin: 10px 12px 10px 0 !important;
 }
+
+/* Smooth scroll for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
