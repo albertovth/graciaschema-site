@@ -29,3 +29,15 @@ Si querés sugerir una corrección o solicitar cambios en tu aporte, escribí a:
 
 También podés ponerte en contacto si preferís que tu contribución aparezca como **Anónimo** o con **iniciales**.
 
+## Aviso de privacidad (GDPR)
+
+Este memorial se gestiona desde Noruega y cumple con las normas europeas de protección de datos (GDPR).
+
+- Los testimonios enviados mediante el formulario se recopilan a través de Google Forms.  
+- Los datos que compartás (nombre, correo electrónico, recuerdos, imágenes) se utilizan únicamente para fines de publicación en este sitio y para comunicación editorial.  
+- Tu correo electrónico **no será publicado**.  
+- No compartimos la información con terceros ni la utilizamos con fines comerciales.  
+- Podés ejercer en cualquier momento tus derechos de acceso, rectificación o supresión escribiendo a <a href="mailto:alberto@vthoresen.no">alberto@vthoresen.no</a>
+- Si en algún momento deseás retirar tu consentimiento, eliminaremos tu aporte del sitio.  
+
+El envío del formulario implica tu consentimiento explícito para este tratamiento.
