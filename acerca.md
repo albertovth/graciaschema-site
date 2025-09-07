@@ -41,3 +41,8 @@ Este memorial se gestiona desde Noruega y cumple con las normas europeas de prot
 - Si en algún momento deseás retirar tu consentimiento, eliminaremos tu aporte del sitio.  
 
 El envío del formulario implica tu consentimiento explícito para este tratamiento.
+
+## Responsabilidad de los testimonios
+
+Los recuerdos y reflexiones publicados son responsabilidad exclusiva de sus autores.  
+Este sitio actúa únicamente como espacio de publicación y memoria colectiva, sin asumir responsabilidad por las opiniones expresadas.
