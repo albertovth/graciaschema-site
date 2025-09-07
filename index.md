@@ -22,3 +22,4 @@ Memorial digital para **José María “Chema” Tojeira** — un espacio de gra
 > **“...la verdad, la justicia y el perdón deben regir cualquier intento [...] de formular una respuesta justa a los odios.”**  
 > — José M. Tojeira, *Verdad, Justicia, Perdón* (1997)
 
+[Acerca de este sitio]({{ '/acerca' | relative_url }})
