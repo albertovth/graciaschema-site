@@ -12,15 +12,17 @@ permalink: /comparti
 
 Gracias por contribuir a este homenaje. Tu aporte va a ser **revisado** antes de publicarse para mantener un espacio respetuoso y fiel a su legado.
 
-<p style="color:#001f3f;font-weight:600">
-Después de enviar, la página mostrará la confirmación arriba del formulario.
-Si la pantalla parece quedar en blanco, no te preocupés: el sitio te llevará hacia arriba automáticamente.
-</p>
 <p style="font-weight:600">
 Publicamos los aportes sin cambios de fondo; solo corregimos ortografía/gramática menor. 
 Las citas textuales se parafrasean. 
 <a href="{{ '/acerca' | relative_url }}">Leé la política editorial completa</a>.
 </p>
+
+<p style="color:#001f3f;font-weight:600">
+Después de enviar, la página mostrará la confirmación arriba del formulario.
+Si la pantalla parece quedar en blanco, no te preocupés: el sitio te llevará hacia arriba automáticamente.
+</p>
+
 <div style="max-width:820px;margin:0 auto">
   <iframe
     id="formFrame"
