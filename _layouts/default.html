@@ -110,7 +110,7 @@
     {% if page.url contains '/202' %}
       <p>
   <a class="cta"
-     href="{{ '/historias' | relative_url }}"
+     href="{{ '/historias#' | append: page.slug | relative_url }}"
      onclick="if (document.referrer && document.referrer.indexOf('{{ '/historias' | relative_url }}') !== -1) { history.back(); return false; }">
     ← Volver a Historias
   </a>
