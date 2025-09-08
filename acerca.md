@@ -30,9 +30,9 @@ Si querés sugerir una corrección o solicitar cambios en tu aporte, escribí a:
 
 También podés ponerte en contacto si preferís que tu contribución aparezca como **Anónimo** o con **iniciales**.
 
-## Aviso de privacidad (GDPR)
+## Aviso de privacidad (RGPD)
 
-Este sitio cumple con las normas europeas de protección de datos (GDPR).
+Este sitio cumple con las normas europeas de protección de datos ([RGPD](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_es.htm){:target="_blank"}).
 
 - Los testimonios enviados mediante el formulario se recopilan a través de Google Forms.  
 - Los datos que compartás (nombre, correo electrónico, recuerdos, imágenes) se utilizan únicamente para fines de publicación en este sitio y para comunicación editorial.  
