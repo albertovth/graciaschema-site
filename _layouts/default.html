@@ -17,105 +17,44 @@
       color: #000;
       background: #fff;
     }
-
-    h1, h2, h3 {
-      font-weight: bold;
-      margin-top: 2rem;
-      color: #000;
-      text-decoration: none;
-    }
-
-    a {
-      color: #005;
-      text-decoration: underline;
-    }
-
-    a:visited {
-      color: #005;
-    }
-
-    blockquote {
-      font-style: italic;
-      margin: 1.5rem 0;
-      padding-left: 1rem;
-      border-left: 3px solid #ccc;
-    }
-
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-
-    .photo-credit {
-      font-size: 0.9em;
-      color: #555;
-    }
-
-    .cta {
-      display: inline-block;
-      margin: 1rem 1rem 1rem 0;
-      padding: 0.5rem 1rem;
-      background: #eee;
-      border: none;
-      text-decoration: none;
-      color: #000;
-    }
-
-    .button {
-      display: inline-block;
-      margin: 1rem 0;
-      padding: 0.5rem 1rem;
-      background: #007bff;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 4px;
-      font-weight: bold;
-      font-size: 1rem;
-      border: none;
-    }
-
-    .button:hover {
-      background: #0056b3;
-      cursor: pointer;
-    }
-
-    .meta {
-      font-size: 0.85em;
-      color: #555;
-      margin-bottom: 0.5em;
-    }
-
-    .cards {
-      display: flex;
-      flex-direction: column;
-      gap: 2rem;
-    }
-
-    .card {
-      border-top: 1px solid #ddd;
-      padding-top: 1rem;
-    }
-
-    footer {
-      margin-top: 4rem;
-      text-align: center;
-      font-size: 0.9em;
-      color: #888;
-    }
+    h1, h2, h3 { font-weight: bold; margin-top: 2rem; color: #000; text-decoration: none; }
+    a { color: #005; text-decoration: underline; }
+    a:visited { color: #005; }
+    blockquote { font-style: italic; margin: 1.5rem 0; padding-left: 1rem; border-left: 3px solid #ccc; }
+    img { max-width: 100%; height: auto; }
+    .photo-credit { font-size: 0.9em; color: #555; }
+    .cta { display: inline-block; margin: 1rem 1rem 1rem 0; padding: 0.5rem 1rem; background: #eee; border: none; text-decoration: none; color: #000; }
+    .button { display: inline-block; margin: 1rem 0; padding: 0.5rem 1rem; background: #007bff; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 1rem; border: none; }
+    .button:hover { background: #0056b3; cursor: pointer; }
+    .meta { font-size: 0.85em; color: #555; margin-bottom: 0.5em; }
+    .cards { display: flex; flex-direction: column; gap: 2rem; }
+    .card { border-top: 1px solid #ddd; padding-top: 1rem; }
+    footer { margin-top: 4rem; text-align: center; font-size: 0.9em; color: #888; }
   </style>
 </head>
 
 <body>
   <main>
+
     {% if page.url contains '/202' %}
       <p>
-  <a class="cta"
-     href="{{ '/historias#' | append: page.slug | relative_url }}"
-     onclick="if (document.referrer && document.referrer.indexOf('{{ '/historias' | relative_url }}') !== -1) { history.back(); return false; }">
-    ← Volver a Historias
-  </a>
-</p>
+        <a class="cta"
+           href="{{ '/historias#' | append: page.slug | relative_url }}"
+           onclick="if (document.referrer && document.referrer.indexOf('{{ '/historias' | relative_url }}') !== -1) { history.back(); return false; }">
+          ← Volver a Historias
+        </a>
+      </p>
 
+      <!-- Encabezado del post: título + autor (+ fecha opcional) -->
+      {% if page.title %}
+        <header class="post-header" style="margin: 1rem 0 1.5rem;">
+          <h1 class="post-title">{{ page.title }}</h1>
+          <p class="meta">
+            {% if page.author %}Por {{ page.author }}{% endif %}
+            {% if page.date %}{% if page.author %} · {% endif %}{{ page.date | date: "%Y-%m-%d" }}{% endif %}
+          </p>
+        </header>
+      {% endif %}
     {% endif %}
 
     {{ content }}
