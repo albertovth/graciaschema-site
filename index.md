@@ -13,7 +13,7 @@ title: Inicio
 
 # Gracias, Chema
 
-Espacio de recuerdo digital para **José María “Chema” Tojeira** — un espacio de gratitud y memoria colectiva.
+Sitio de recuerdo digital para **José María “Chema” Tojeira** — un espacio de gratitud y memoria colectiva.
 
 <a href="{{ '/comparti' | relative_url }}" class="cta">Compartí tu recuerdo</a>
 
