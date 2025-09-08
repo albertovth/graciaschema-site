@@ -19,8 +19,9 @@ Este proyecto **no tiene afiliación institucional ni religiosa**: es un esfuerz
 
 - Las contribuciones **no se editan en su contenido esencial**.  
 - Solo corregimos **ortografía y gramática menor**, para mayor claridad.  
-- Las **citas textuales** se **parafrasean** en narración, para evitar interpretaciones polémicas sin la posibilidad de confirmación del propio Chema.  
-- En casos excepcionales, se harán ajustes mínimos para preservar un **tono respetuoso**.
+- Las **citas textuales con referencia** se mantienen fieles a la fuente documentada.  
+- Las **citas de comunicación oral** se presentan en forma de narración, para evitar interpretaciones polémicas sin posibilidad de verificación externa (ej.: *Chema me dijo que tenía otra idea*, en vez de: *Chema me dijo: «cita textual de la idea comunicada oralmente»*).  
+- En casos excepcionales, se harán ajustes mínimos para preservar un **tono respetuoso**.  
 
 ## Comentarios o cambios
 
