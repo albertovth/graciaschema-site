@@ -26,7 +26,7 @@ Este proyecto **no tiene afiliación institucional ni religiosa**: es un esfuerz
 ## Comentarios o cambios
 
 Si querés sugerir una corrección o solicitar cambios en tu aporte, escribí a:  
-<a href="mailto:alberto@vthoresen.no">alberto@vthoresen.no</a>
+<a href="mailto:contacto@graciaschema.org">contacto@graciaschema.org</a>
 
 También podés ponerte en contacto si preferís que tu contribución aparezca como **Anónimo** o con **iniciales**.
 
