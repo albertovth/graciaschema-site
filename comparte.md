@@ -26,7 +26,7 @@ Si la pantalla parece quedar en blanco, no te preocupés: el sitio te llevará h
 ### Aviso de privacidad
 
 Los datos que compartás en el formulario serán utilizados únicamente para la publicación de tu recuerdo en este memorial digital. Tu correo no se publicará.  
-Podés pedir la eliminación o corrección de tu aporte en cualquier momento escribiendo a <a href="mailto:alberto@vthoresen.no">alberto@vthoresen.no</a>.
+Podés pedir la eliminación o corrección de tu aporte en cualquier momento escribiendo a <a href="mailto:contacto@graciaschema.org">contacto@graciaschema.org</a>.
 
 <div style="max-width:820px;margin:0 auto">
   <iframe
