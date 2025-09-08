@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "La generosidad de Chema en lo pequeño y en lo grande"
+title: "Generosidad en lo pequeño y en lo grande"
 author: "Alberto V.T."
 date: 2025-09-06
 ---
