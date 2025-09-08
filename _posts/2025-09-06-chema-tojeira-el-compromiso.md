@@ -22,7 +22,7 @@ Sé que no soy un caso aislado, que son decenas de hombres y mujeres que podrán
 
 De su legado social, político y religioso seguro se hablará abundantemente en otros espacios, de ese legado que tanto admiré y que me hacía sentir orgulloso de que me llamara amigo. Aquí sólo quiero aportar mi nimia pincelada íntima, hablando también de estás pequeñas historias que probablemente no recojan sus biógrafos, pero que marcaron a varias generaciones enriqueciendo nuestra experiencia universitaria y mejorando nuestra incierta vida de hijos de la guerra.
 
-Gracias Chema, dejás nuestra memoria encendida con un ejemplo urgente para estos tiempos oscuros.
+**Gracias Chema, dejás nuestra memoria encendida con un ejemplo urgente para estos tiempos oscuros.**
 
 [El artículo fue publicado en Substack](https://open.substack.com/pub/elmenjivar/p/chema-tojeira-el-compromiso-de-mejorar?utm_campaign=post&utm_medium=web){:target="_blank" rel="noopener"}
 
