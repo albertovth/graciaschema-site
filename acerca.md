@@ -11,7 +11,8 @@ permalink: /acerca
 # Acerca de este sitio
 
 Este espacio es un homenaje colectivo a la memoria de José María “Chema” Tojeira.  
-Publicamos recuerdos, testimonios y reflexiones enviados por amigas y amigos, colegas y personas que lo conocieron.  
+Publicamos recuerdos, testimonios y reflexiones enviados por amigas y amigos, colegas y personas que lo conocieron. 
+Este sitio ofrece un espacio protegido, donde la memoria de Chema pueda compartirse desde la verdad de quienes lo conocieron —sin importar el grado de cercanía— y siempre con respeto, sin distracciones, interferencias ni polémicas.
 
 Este proyecto **no tiene afiliación institucional ni religiosa**: es un esfuerzo entre personas para compartir nuestro pesar por su partida y honrar su memoria desde nuestras vivencias, con honestidad y respeto.
 
