@@ -2,6 +2,7 @@
 layout: default
 title: Acerca de este sitio
 permalink: /acerca
+description: Homenaje colectivo a la memoria de José María “Chema” Tojeira; política editorial, privacidad (RGPD) y cómo enviar recuerdos con respeto.
 ---
 
 <p>
@@ -13,7 +14,7 @@ permalink: /acerca
 Este espacio es un homenaje colectivo a la memoria de José María “Chema” Tojeira.  
 Publicamos recuerdos, testimonios y reflexiones enviados por amigas y amigos, colegas y personas que lo conocieron. 
 
-Este proyecto **no tiene afiliación institucional ni religiosa**: es un esfuerzo entre personas para compartir nuestro pesar por su partida y honrar su memoria desde nuestras vivencias, con honestidad y respeto. Este sitio ofrece un espacio protegido, donde la memoria de Chema pueda compartirse desde la verdad de quienes lo conocieron —sin importar el grado de cercanía— y siempre con respeto, sin distracciones, interferencias ni polémicas.
+Este proyecto **no tiene afiliación institucional ni religiosa**: es un esfuerzo entre personas para compartir nuestro pesar por su partida y honrar su memoria desde nuestras vivencias, con honestidad y respeto. Este sitio ofrece un espacio protegido, donde la memoria de Chema pueda compartirse desde la verdad de quienes lo conocieron —sin importar el grado de cercanía— y siempre con respeto, sin distracciones ni interferencias, lejos de la polémica.
 
 ## Política editorial
 
@@ -32,7 +33,7 @@ También podés ponerte en contacto si preferís que tu contribución aparezca c
 
 ## Aviso de privacidad (RGPD)
 
-Este sitio cumple con las normas europeas de protección de datos ([RGPD](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_es.htm){:target="_blank"}).
+Este sitio cumple con las normas europeas de protección de datos [RGPD](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_es.htm){:target="_blank" rel="noopener"}.
 
 - Los testimonios enviados mediante el formulario se recopilan a través de Google Forms.  
 - Los datos que compartás (nombre, correo electrónico, recuerdos, imágenes) se utilizan únicamente para fines de publicación en este sitio y para comunicación editorial.  
