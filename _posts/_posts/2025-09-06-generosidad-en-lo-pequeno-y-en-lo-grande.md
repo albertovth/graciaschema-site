@@ -2,6 +2,7 @@
 layout: default
 title: "Generosidad en lo pequeño y en lo grande"
 author: "Alberto V.T."
+description: "Recuerdos personales de la amistad de Chema: gestos discretos y generosos, apoyo incondicional y cercanía que marcaron mi vida."
 date: 2025-09-06
 ---
 
