@@ -2,6 +2,7 @@
 layout: default
 title: "Chema Tojeira, el compromiso de mejorar la vida de las personas"
 author: "Élmer L. Menjívar"
+description: "Recuerdos de Chema en la UCA y más allá: mentor, amigo y guía que inspiró compromiso estudiantil, pensamiento crítico y vida cultural."
 date: 2025-09-06
 ---
 Pequeñas historias que probablemente no recojan sus biógrafos, pero que marcaron a varias generaciones enriqueciendo nuestra experiencia universitaria y de hijos de la guerra.
