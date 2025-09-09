@@ -2,6 +2,7 @@
 layout: default
 title: "Su amistad me cambió"
 author: "Héctor Parada"
+description: "En 2007 Chema apoyó mi regreso a la UCA y me abrió puertas con su amistad y generosidad. Un encuentro que transformó mi vida."
 date: 2025-09-08
 ---
 
