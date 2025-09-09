@@ -2,6 +2,7 @@
 layout: default
 title: "Hay que seguir luchando por la justicia"
 author: "Óscar Canjura"
+description: "Última conversación con Chema en 2025: un mensaje de apoyo y convicción de seguir luchando por la justicia pese a las dificultades."
 date: 2025-09-07
 ---
 El 30 de julio de 2025 fue la última vez que hablé con el Padre Chema. Recibí un mensaje suyo por Facebook donde me pedía que lo llamara de forma urgente. Lo hice por otra plataforma y me explicó que le habían pedido transmitirme que Atilio Montalvo, firmante de los Acuerdos de Paz y preso en ese entonces por el actual régimen, estaba bien y que informara a su familia.  
