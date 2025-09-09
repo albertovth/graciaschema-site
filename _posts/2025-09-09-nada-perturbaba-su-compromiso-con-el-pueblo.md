@@ -10,4 +10,4 @@ La última vez que vi al Padre Tojeira fue en la parroquia El Carmen. Platicamos
 
 Me dio mucha alegría verlo siempre dispuesto a dar la batalla por los derechos humanos y porque seamos más solidarios, más compasivos y más comprometidos con la comunidad.  
 
-Nada perturbaba su compromiso con este pueblo.
+**Nada perturbaba su compromiso con este pueblo.**
