@@ -2,6 +2,7 @@
 layout: default
 title: "Nada perturbaba su compromiso con el pueblo"
 author: "Lorena Peña Mendoza"
+description: "Un encuentro en la parroquia El Carmen donde Chema mostró su alegría y firme compromiso con los derechos humanos y su pueblo."
 date: 2025-09-09
 ---
 
