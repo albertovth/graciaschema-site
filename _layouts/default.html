@@ -3,23 +3,29 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+
   <!-- Open Graph -->
   <meta property="og:locale" content="es_ES">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:type" content="website">
+  {% if page.date %}
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    {% if page.author %}<meta property="article:author" content="{{ page.author }}">{% endif %}
+  {% else %}
+    <meta property="og:type" content="website">
+  {% endif %}
   <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}">
   <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
   <meta property="og:description" content="{{ page.description | default: site.description }}">
-
   {% assign og_image = page.image | default: '/assets/og/chema-default.jpg' %}
   <meta property="og:image" content="{{ site.url }}{{ og_image }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+  <meta property="og:image:alt" content="{{ page.image_alt | default: 'Imagen representativa de Gracias, Chema' }}">
 
   <style>
     body {
