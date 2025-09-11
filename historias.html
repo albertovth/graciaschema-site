@@ -25,8 +25,23 @@ permalink: /historias
     {% if post.excerpt %}
       <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
     {% endif %}
-    <p><a class="cta" href="{{ post.url | relative_url }}">Leer historia</a></p>
+    <p>
+      <a class="cta" 
+         href="{{ post.url | relative_url }}" 
+         onclick="sessionStorage.setItem('scrollPos', window.scrollY);">
+         Leer historia
+      </a>
+    </p>
   </article>
 {% endfor %}
 </div>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const pos = sessionStorage.getItem('scrollPos');
+    if (pos) {
+      window.scrollTo(0, parseInt(pos));
+      sessionStorage.removeItem('scrollPos');
+    }
+  });
+</script>
