@@ -11,6 +11,6 @@ Gracias P. Chema por tanto y por todo... gracias por su disposición, entrega ge
 Gracias por ser ese lugar seguro. Lo vamos a extrañar caminando por la UCA, acompañándonos en la oficina a tomarse el cafecito... con su voz diciéndome *“¡Jefa, compañera!”*.  
 
 **Te extrañamos desde el primer día de tu muerte... pero te quedás entre nosotros, porque “nos resistimos a hablar en pasado de quien vive” (Pastorales SJ). Te amamos, José María Tojeira, Padre Chema 🤍**  
-![Chema y Mayra]({{ '/assets/img/Chema&Mayra.jpg' | relative_url }}) 
+![Chema y Mayra]({{ '/assets/img/Chema-Mayra.jpg' | relative_url }}) 
 *Foto cortesía de Mayra Alvarado
 
